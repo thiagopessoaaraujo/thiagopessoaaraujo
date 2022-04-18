@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Thiago, desenvolvedor web front-end!
 <div align="center">
   <a href="https://github.com/thiagopessoaaraujo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagopessoaaraujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopessoaaraujo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagopessoaaraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopessoaaraujo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-HTML" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
