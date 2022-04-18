@@ -1,9 +1,19 @@
-## Olá! Eu sou o Thiago, desenvolvedor front-end!
+## Olá! Sou o Thiago e bem vindo(a) ao meu Github 🤓
+
+<ul>
+  <li>💻 Desenvolvedor front-end desde 2022</li>
+  <li>🎓 Bacharelado em Engenharia de Software - Unicesumar (1/8)</li>
+  <li>🎓 Técnologo em IoT e Cloud Computing - Universidade Anhembi Morumbi (1/5)</li>
+</ul>
+
+##
+
 <div align="center">
   <a href="https://github.com/thiagopessoaaraujo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagopessoaaraujo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopessoaaraujo&layout=compact&langs_count=7&theme=react"/>
 </div>
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-HTML" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
