@@ -1,7 +1,7 @@
 ## Olá! Sou o Thiago e bem vindo(a) ao meu Github 🤓
 
 <ul>
-  <li>💻 Desenvolvedor front-end desde 2022</li>
+  <li>💻 Desenvolvedor front-end</li>
   <li>🎓 Bacharelado em Engenharia de Software - Unicesumar (1/8)</li>
   <li>🎓 Técnologo em IoT e Cloud Computing - Universidade Anhembi Morumbi (1/5)</li>
 </ul>
