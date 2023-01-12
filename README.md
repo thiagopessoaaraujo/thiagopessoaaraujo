@@ -3,7 +3,7 @@
 <ul>
   <li>💻 Desenvolvedor front-end</li>
   <li>🎓 Bacharelado em Engenharia de Software - Unicesumar (3/8)</li>
-  <li>🎓 Técnologo em Sistemas para Internet - UniFatecie (1/4)</li>
+  <li>🎓 Tecnólogo em Sistemas para Internet - UniFatecie (1/4)</li>
 </ul>
 
 ##
