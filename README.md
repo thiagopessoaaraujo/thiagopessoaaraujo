@@ -1,7 +1,7 @@
 ## Olá! Sou o Thiago e bem vindo(a) ao meu Github 🤓
 
 <ul>
-  <li>💻 Desenvolvedor front-end</li>
+  <li>💻 Desenvolvedor web</li>
   <li>🎓 Bacharelado em Engenharia de Software - Unicesumar (3/8)</li>
   <li>🎓 Tecnólogo em Sistemas para Internet - UniFatecie (1/4)</li>
 </ul>
