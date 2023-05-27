@@ -20,7 +20,6 @@
   <div style="display: inline_block">
   <img align="center" alt="Thiago-Python" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Thiago-Js" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Thiago-Typescript" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">  
   </div><br>
   <div>
     <p>Tecnologias e Frameworks:</p>
