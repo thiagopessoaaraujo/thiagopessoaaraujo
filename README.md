@@ -1,7 +1,7 @@
 ## Olá! Sou o Thiago e bem vindo(a) ao meu Github 🤓
 
 <ul>
-  <li>💻 Desenvolvedor web</li>
+  <li>💻 Desenvolvedor de Software</li>
   <li>🎓 Bacharelado em Engenharia de Software - Unicesumar (3/8)</li>
   <li>🎓 Tecnólogo em Sistemas para Internet - UniFatecie (1/4)</li>
 </ul>
@@ -14,15 +14,33 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpessoaaraujo&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
-  <div style="display: inline_block"><br>
+  <div><br>
+    <p>Linguagens de Programação:</p>
+  </div>
+  <div style="display: inline_block">
+  <img align="center" alt="Thiago-Python" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Thiago-Js" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Thiago-Typescript" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">  
+  </div><br>
+  <div>
+    <p>Tecnologias e Frameworks:</p>
+  </div>
+  <div style="display: inline_block">
   <img align="center" alt="Thiago-HTML" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Thiago-Js" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Thiago-Git" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Thiago-React" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Thiago-Typescript" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Thiago-Sass" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-</div>
-  
+
+  </div><br>
+  <div>
+    <p>Sistemas Operacionais e Banco de Dados:</p>
+  </div>
+  <div style="display: inline_block">
+    <img align="center" alt="Thiago-Linux" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img align="center" alt="Thiago-Windows" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+    <img align="center" alt="Thiago-PostgreeSQL" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  </div>
+
 ##
   
 <div>
