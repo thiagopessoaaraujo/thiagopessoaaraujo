@@ -18,17 +18,17 @@
     <p>Linguagens de Programação:</p>
   </div>
   <div style="display: inline_block">
-  <img align="center" alt="Thiago-C#" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" name="C#">
   <img align="center" alt="Thiago-Python" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" name="Python">
-  <img align="center" alt="Thiago-Java" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" name="Javascript">
+  <img align="center" alt="Thiago-Java" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" name="Javas">
+      <img align="center" alt="Thiago-Js" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" name="Javascript">
   </div><br>
   <div>
     <p>Tecnologias e Frameworks:</p>
   </div>
   <div style="display: inline_block">
-    <img align="center" alt="Thiago-DotNet" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" name=".NET">
     <img align="center" alt="Thiago-HTML" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" name="HTML5">
     <img align="center" alt="Thiago-CSS" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" name="CSS3">
+        <img align="center" alt="Thiago-React" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" name="React">
     <img align="center" alt="Thiago-Git" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" name="Git">
 
   </div>
