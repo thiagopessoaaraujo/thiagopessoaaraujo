@@ -41,3 +41,14 @@ Tenho 23 anos e sou <strong>Desenvolvedor de Software</strong>.
   <a href = "mailto:tp102000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/tpessoaaraujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+<div align="center">
+  <h3><b>Número de visitantes no perfil<h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/tpessoaaraujo/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
