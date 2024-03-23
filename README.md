@@ -20,14 +20,11 @@ Tenho 23 anos e sou <strong>Desenvolvedor de Software</strong>.
   Linguagens e Tecnologias:
 </h2>
 
-![CSharp](https://img.shields.io/badge/CSharp-306998?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Dotnet](https://img.shields.io/badge/Dotnet-563D7C?style=for-the-badge&logo=dotnet&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <h2 align="left">
   Meus contatos:
