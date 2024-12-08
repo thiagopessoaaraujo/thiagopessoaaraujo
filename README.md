@@ -20,24 +20,24 @@ Tenho 24 anos e sou desenvolvedor de software.
   Linguagens e Tecnologias:
 </h2>
 
-![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/python-20232A?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
 
 
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Sass](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
 <h2 align="left">
   Meus contatos:
 </h2>  
 <div>
-  <a href="https://wa.me/5514933006963" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiagopessoaaraujo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" target="_blank"></a>
-  <a href = "mailto:tp102000@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red"></a>
-  <a href="https://instagram.com/tpessoaaraujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=%23E4405F" target="_blank"></a>
+  <a href="https://wa.me/5514933006963" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-20232A?style=for-the-badge&logo=whatsapp&logoColor=25D366" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiagopessoaaraujo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=0077B5" target="_blank"></a>
+  <a href = "mailto:tp102000@gmail.com"><img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=red"></a>
+  <a href="https://instagram.com/tpessoaaraujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=%23E4405F" target="_blank"></a>
 </div>
 
 <div align="center">
