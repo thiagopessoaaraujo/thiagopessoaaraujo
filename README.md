@@ -1,11 +1,11 @@
 ## Olá, mundo! Meu nome é <strong>Thiago</strong>! 👋
 
 <p align="left">
-Tenho 23 anos e sou <strong>Desenvolvedor de Software</strong>.
+Tenho 24 anos e sou desenvolvedor de software.
 
 <ul>
-  <li>🎓 Graduando em Engenharia de Software - Unicesumar (3/4)</li>
-  <li>🎓 Graduando em Sistemas para Internet - Unifatecie (2/2)</li>
+  <li>🎓 Técnologo em Sistemas para Internet (Unifatecie)</li>
+  <li>🎓 Graduando em Engenharia de Software (Unicesumar) (4/4)</li>
 </ul>
 
 ##
@@ -20,20 +20,24 @@ Tenho 23 anos e sou <strong>Desenvolvedor de Software</strong>.
   Linguagens e Tecnologias:
 </h2>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
 
 <h2 align="left">
   Meus contatos:
 </h2>  
 <div>
-  <a href="https://wa.me/5514933006963" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiagopessoaaraujo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:tp102000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/tpessoaaraujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5514933006963" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiagopessoaaraujo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" target="_blank"></a>
+  <a href = "mailto:tp102000@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red"></a>
+  <a href="https://instagram.com/tpessoaaraujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=%23E4405F" target="_blank"></a>
 </div>
 
 <div align="center">
