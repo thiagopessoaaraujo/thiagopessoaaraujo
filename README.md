@@ -20,15 +20,18 @@ Tenho 24 anos e sou desenvolvedor de software.
   Linguagens e Tecnologias:
 </h2>
 
-![Python](https://img.shields.io/badge/python-20232A?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
 
-
 ![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Sass](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=TailwindCSS&logoColor=%2338B2AC)
+
+![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=%23DD0031)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=Next.js&logoColor=ffff)
+![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=Node.js&logoColor=6DA55F)
 
 <h2 align="left">
   Meus contatos:
