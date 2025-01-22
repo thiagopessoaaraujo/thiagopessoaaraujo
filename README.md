@@ -1,11 +1,11 @@
 ## Olá, mundo! Meu nome é <strong>Thiago</strong>! 👋
 
 <p align="left">
-Tenho 24 anos e sou desenvolvedor de software.
+<b>Desenvolvedor Web Full-stack</b>.
 
 <ul>
-  <li>🎓 Técnologo em Sistemas para Internet (Unifatecie)</li>
-  <li>🎓 Graduando em Engenharia de Software (Unicesumar) (4/4)</li>
+  <li>🎓 Técnologo em Sistemas para Internet - Concluído em 2024</li>
+  <li>🎓 Bacharelado em Engenharia de Software - Cursando 7º semestre (7/8)</li>
 </ul>
 
 ##
