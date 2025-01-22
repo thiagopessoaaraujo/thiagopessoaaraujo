@@ -1,7 +1,7 @@
 ## Olá, mundo! Meu nome é <strong>Thiago</strong>! 👋
 
 <p align="left">
-<b>Desenvolvedor Web Full-stack</b>.
+<b>Desenvolvedor Web Full-stack</b>
 
 <ul>
   <li>🎓 Técnologo em Sistemas para Internet - Concluído em 2024</li>
