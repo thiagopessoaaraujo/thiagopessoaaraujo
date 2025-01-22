@@ -27,7 +27,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=TailwindCSS&logoColor=%2338B2AC)
 
-![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=%23DD0031)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=Next.js&logoColor=ffff)
 ![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=Node.js&logoColor=6DA55F)
