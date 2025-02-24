@@ -1,11 +1,11 @@
 ## Olá, mundo! Meu nome é <strong>Thiago</strong>! 👋
 
 <p align="left">
-<b>Desenvolvedor Web Full-stack</b>
+<b>Desenvolvedor Full-stack</b>
 
 <ul>
-  <li>🎓 Técnologo em Sistemas para Internet - Concluído em 2024</li>
-  <li>🎓 Bacharelado em Engenharia de Software - Cursando 7º semestre (7/8)</li>
+  <li>🎓 Tecnólogo em Sistemas para Internet - Concluído em Janeiro/2025</li>
+  <li>🎓 Bacharelado em Engenharia de Software - Cursando com Previsão de Conclusão em Janeiro/2026</li>
 </ul>
 
 ##
