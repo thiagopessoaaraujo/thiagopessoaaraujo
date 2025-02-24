@@ -20,16 +20,16 @@
   Linguagens e Tecnologias:
 </h2>
 
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
 
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=TailwindCSS&logoColor=%2338B2AC)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=Next.js&logoColor=ffff)
-![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=Node.js&logoColor=6DA55F)
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
+![C#](https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=c-sharp)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-20232A?style=for-the-badge&logo=.net&logoColor=5C2D91)
+![PHP](https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/laravel-20232A?style=for-the-badge&logo=laravel&logoColor=%23FF2D20)
 
 <h2 align="left">
   Meus contatos:
